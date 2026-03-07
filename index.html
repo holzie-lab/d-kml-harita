@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KML Konum Haritası</title>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script src="https://unpkg.com/@tmcw/togeojson"></script>
+
+<style>
+body{
+margin:0;
+font-family:Arial;
+}
+
+#map{
+height:100vh;
+width:100%;
+}
+
+.popup-buttons{
+margin-top:10px;
+}
+
+.popup-buttons a{
+display:block;
+margin-top:5px;
+padding:6px;
+background:#2c7be5;
+color:white;
+text-decoration:none;
+border-radius:4px;
+text-align:center;
+}
+</style>
+</head>
+
+<body>
+
+<div id="map"></div>
+
+<script>
+
+var map = L.map('map').setView([37.06, 37.38], 12);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+maxZoom:19
+}).addTo(map);
+
+fetch("konumlar.kml")
+.then(res=>res.text())
+.then(kmltext=>{
+
+var parser = new DOMParser();
+var kml = parser.parseFromString(kmltext,"text/xml");
+var geojson = toGeoJSON.kml(kml);
+
+L.geoJSON(geojson,{
+onEachFeature:function(feature,layer){
+
+var coord = feature.geometry.coordinates;
+var lon = coord[0];
+var lat = coord[1];
+
+var google = "https://www.google.com/maps?q="+lat+","+lon;
+var apple = "https://maps.apple.com/?q="+lat+","+lon;
+
+var name = feature.properties.name || "Konum";
+
+var popup = `
+<b>${name}</b>
+
+<div class="popup-buttons">
+
+<a href="${google}" target="_blank">
+Google Haritalarda Aç
+</a>
+
+<a href="${apple}" target="_blank">
+Apple Haritalarda Aç
+</a>
+
+</div>
+`;
+
+layer.bindPopup(popup);
+
+}
+}).addTo(map);
+
+});
+
+</script>
+
+</body>
+</html>

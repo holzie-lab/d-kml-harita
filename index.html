@@ -17,15 +17,15 @@ body{
   overflow:hidden;
 }
 
-/* Sidebar */
+/* Sidebar sağdan */
 #sidebar{
   position:fixed;
-  left:-300px; /* gizli başlangıç */
+  right:-300px; /* başlangıçta gizli */
   top:0;
   width:300px;
   height:100%;
   background:#f7f7f7;
-  border-right:1px solid #ccc;
+  border-left:1px solid #ccc;
   overflow:auto;
   padding:10px;
   transition:0.3s;
@@ -33,13 +33,14 @@ body{
 }
 
 #sidebar.open{
-  left:0;
+  right:0;
 }
 
+/* Toggle butonu sağ üstte */
 #toggleBtn{
   position:fixed;
   top:10px;
-  left:10px;
+  right:10px;
   z-index:1100;
   background:#2c7be5;
   color:white;
@@ -83,7 +84,7 @@ body{
 }
 
 #map.shift{
-  left:300px; /* sidebar açıkken kaydır */
+  right:300px; /* sidebar açıkken kaydır */
   width:calc(100% - 300px);
 }
 
@@ -94,8 +95,17 @@ body{
   }
 
   #map.shift{
-    left:250px;
+    right:250px;
     width:calc(100% - 250px);
+  }
+
+  .buttons a{
+    padding:10px 14px;
+    font-size:16px;
+  }
+
+  .location{
+    padding:14px;
   }
 }
 </style>

@@ -1,0 +1,2908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Adana-Gaziantep-Hatay-Kilis-Osmaniye-Malatya-Adıyaman.kmz</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1094"></atom:link>
+	<StyleMap id="__managed_style_005FCE208F3CE770840F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1AA559CD763CE770840F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2839D5DE5D3CE770840F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_05F1238CE53CE770840C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A505C26D13CE770840C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2996DFF7083CE770840C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0FF210C3583CE7772E7C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B9D46AE7F3CE7772E7C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29F64E8CCA3CE7772E7C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1A505C26D13CE770840C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1AA559CD763CE770840F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff58eeff</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>80ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1B9D46AE7F3CE7772E7C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>80ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2839D5DE5D3CE770840F">
+		<Style>
+			<IconStyle>
+				<scale>1.44</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff58eeff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>80ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2996DFF7083CE770840C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_29F64E8CCA3CE7772E7C">
+		<Style>
+			<IconStyle>
+				<scale>1.44</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>80ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_30707BB8573CE770840E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4FF48956CB3CE770840E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5E4A6833933CE770840E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_4FF48956CB3CE770840E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff58eeff</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>80ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_5E4A6833933CE770840E">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff58eeff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>80ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Style id="default">
+		<PolyStyle>
+			<color>80ff0055</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="default0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/G.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/G-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="failed0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/G.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/G-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<PolyStyle>
+			<color>80ff0055</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_A1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_A0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_A00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_A0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_A00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_A1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_A0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_G">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_G</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_G</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_H">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_H</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_H</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_K">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_K</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_K</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_M">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/O.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0055aa</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/O-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/O.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0055aa</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/O-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_A">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_A0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_A1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_G">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/G.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/G-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_H">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00ff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_K">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/K.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff00aa</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/K-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff0000</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>80ff0055</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>e6ff0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<PolyStyle>
+			<color>80ff0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>80ff0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<PolyStyle>
+			<color>80ff0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_A">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_A0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_A00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_G">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/G.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/G-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_H">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7f00ff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_K">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/K.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff00aa</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>site-klasoru/files/K-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff0000</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>80ff0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<LineStyle>
+			<color>80ff0055</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<PolyStyle>
+			<color>80ff0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin000">
+		<LineStyle>
+			<color>ffff0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<LineStyle>
+			<color>e6ff0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin20">
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<PolyStyle>
+			<color>80ff0055</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="006D6C20503AEDFE3413">
+		<name>Adana-Gaziantep-Hatay-Kilis-Osmaniye-Adıyaman-Malatya</name>
+		<open>1</open>
+		<Folder id="01FE020E953AEDFE3414">
+			<name>Hatay 13 Asm</name>
+			<Placemark id="18851E4F7B3AEDFE3414">
+				<name>Hatay-Defne-Harbiye</name>
+				<LookAt>
+					<longitude>36.14172890697915</longitude>
+					<latitude>36.16823013631428</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002292568009520593</heading>
+					<tilt>37.62291533236967</tilt>
+					<range>472.1240288482524</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.14139918254464,36.1678846258659,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="20D8151BA13AEDFE3414">
+				<name>Hatay Defne Çekmece</name>
+				<LookAt>
+					<longitude>36.13337348680527</longitude>
+					<latitude>36.19558232084079</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001102331925339772</heading>
+					<tilt>35.24997676636858</tilt>
+					<range>414.5601026688238</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.13324270346067,36.19561463066301,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="379F02C7753AEDFE3414">
+				<name>Hatay Dörtyol Kışlalar</name>
+				<LookAt>
+					<longitude>36.23611904712411</longitude>
+					<latitude>36.83688216950052</latitude>
+					<altitude>0</altitude>
+					<heading>1.61846485395975</heading>
+					<tilt>1.697684792936905</tilt>
+					<range>269.9308415206415</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.23611904712412,36.83688216950052,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="45B1D91A363AEDFE3414">
+				<name>Hatay Dörtyol Yeşil</name>
+				<LookAt>
+					<longitude>36.2339611054815</longitude>
+					<latitude>36.8445346678249</latitude>
+					<altitude>0</altitude>
+					<heading>1.120072103913676e-05</heading>
+					<tilt>44.99992501218105</tilt>
+					<range>1028.748444887615</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.2339611054815,36.8445346678249,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="53F17DEC353AEDFE3414">
+				<name>Hatay Dörtyol Özerli</name>
+				<LookAt>
+					<longitude>36.22132944097014</longitude>
+					<latitude>36.82317747269465</latitude>
+					<altitude>0</altitude>
+					<heading>-0.2010212781413296</heading>
+					<tilt>40.15233421405995</tilt>
+					<range>455.8908208464231</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.22109541319143,36.82280424418374,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="6020F9A2813AEDFE3414">
+				<name>Hatay Dörtyol Yeşilköy</name>
+				<LookAt>
+					<longitude>36.19282270916356</longitude>
+					<latitude>36.8487823429738</latitude>
+					<altitude>0</altitude>
+					<heading>1.791813172219922e-06</heading>
+					<tilt>40.92775211906396</tilt>
+					<range>685.0719436321787</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.19282270916356,36.8487823429738,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="7B0FC36A9D3AEDFE3414">
+				<name>Hatay Hassa Demrek</name>
+				<LookAt>
+					<longitude>36.44716463753145</longitude>
+					<latitude>36.67505708595617</latitude>
+					<altitude>0</altitude>
+					<heading>1.967375035707458e-08</heading>
+					<tilt>44.99983390628314</tilt>
+					<range>1100.92284150334</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.44716463753145,36.67505708595615,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="8AE826A5F13AEDFE3414">
+				<name>Hatay Kırıkhan Aleybeyli</name>
+				<LookAt>
+					<longitude>36.37108817455052</longitude>
+					<latitude>36.51593269679667</latitude>
+					<altitude>0</altitude>
+					<heading>9.706298422412249e-05</heading>
+					<tilt>36.99018784424165</tilt>
+					<range>496.4728780823013</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.37100964565752,36.51595972841582,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="9C579D8CD93AEDFE3414">
+				<name>Hatay Samandağ Batıayaz</name>
+				<LookAt>
+					<longitude>35.9957650835052</longitude>
+					<latitude>36.1620703868608</latitude>
+					<altitude>0</altitude>
+					<heading>7.159653917551357e-06</heading>
+					<tilt>44.99996208361231</tilt>
+					<range>1013.94740661279</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>35.99576508350521,36.16207038686081,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="AF473573D63AEDFE3414">
+				<name>Hatay Samandağ Çöğürlü</name>
+				<LookAt>
+					<longitude>36.00303652938667</longitude>
+					<latitude>36.07482186510096</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001961363985034796</heading>
+					<tilt>37.34134196506319</tilt>
+					<range>459.526778921833</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.00303652938667,36.07482186510097,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="BB2D3758433AEDFE3414">
+				<name>Hatay Yayladağı Bezge</name>
+				<LookAt>
+					<longitude>36.01098779491708</longitude>
+					<latitude>35.96781163006442</latitude>
+					<altitude>0</altitude>
+					<heading>0.0003472542196684943</heading>
+					<tilt>38.30222452295672</tilt>
+					<range>502.7528288657728</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.01063696658677,35.96787408580878,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="C245DA0EA23AEDFE3414">
+				<name>Hatay Yaylacağı Karaköse</name>
+				<LookAt>
+					<longitude>36.0307802338636</longitude>
+					<latitude>36.0247851579233</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001391272617401438</heading>
+					<tilt>38.85354922336612</tilt>
+					<range>532.6551824727882</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.03078023386361,36.0247851579233,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="D38CB7D0053AEDFE3414">
+				<name>Hatay Yayladğı kışlak</name>
+				<LookAt>
+					<longitude>36.16141729937652</longitude>
+					<latitude>35.96472040557449</latitude>
+					<altitude>0</altitude>
+					<heading>0.0003352615902414328</heading>
+					<tilt>38.25495944789131</tilt>
+					<range>546.3825034969328</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_H</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.1612729121665,35.96474133281181,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="E886120BD13AEDFE3414">
+				<name>Harbiye Mahallesi 4933-ada-3-parsel</name>
+				<styleUrl>#default0</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Defne</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Harbiye</value>
+					</Data>
+					<Data name="Ada">
+						<value>4933</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>3</value>
+					</Data>
+					<Data name="Alan">
+						<value>869,34</value>
+					</Data>
+					<Data name="Pafta">
+						<value>P36-D-08-C-2-D</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.14144,36.168,0 36.14135,36.168,0 36.14114,36.16798,0 36.14116,36.16779,0 36.14145,36.16782,0 36.14162,36.16783,0 36.1416,36.16802,0 36.14144,36.168,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="FD1B8B45583AEDFE3414">
+				<name>Çekmece Mahallesi 12955-parsel</name>
+				<styleUrl>#default0</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Defne</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Çekmece</value>
+					</Data>
+					<Data name="Ada">
+					</Data>
+					<Data name="ParselNo">
+						<value>12955</value>
+					</Data>
+					<Data name="Alan">
+						<value>1.000,00</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.13323,36.19581,0 36.13298,36.19559,0 36.1331,36.19551,0 36.13325,36.19541,0 36.13336,36.19553,0 36.13348,36.19563,0 36.13335,36.19573,0 36.13323,36.19581,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="108D76FD49F3AEDFE3414">
+				<name>Kışlalar Mahallesi 103-ada-4-parsel</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Dörtyol</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Kışlalar</value>
+					</Data>
+					<Data name="Ada">
+						<value>103</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>4</value>
+					</Data>
+					<Data name="Alan">
+						<value>1.175,39</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Atatürk Cad.</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.23584,36.83675,0 36.23644,36.83682,0 36.23645,36.83682,0 36.23646,36.83683,0 36.23647,36.83685,0 36.23648,36.83687,0 36.23648,36.83688,0 36.23647,36.83689,0 36.23645,36.83691,0 36.23632,36.837,0 36.2362,36.83709,0 36.23609,36.83705,0 36.23594,36.83688,0 36.23588,36.83681,0 36.23584,36.83676,0 36.23583,36.83675,0 36.23584,36.83675,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="1118EEB06C13AEDFE3414">
+				<name>Özerli Mahallesi 1662-ada-40-parsel</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Dörtyol</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Özerli</value>
+					</Data>
+					<Data name="Ada">
+						<value>1662</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>40</value>
+					</Data>
+					<Data name="Alan">
+						<value>1.342,69</value>
+					</Data>
+					<Data name="Pafta">
+						<value>O36-A-20-D-2-B</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Bir Zemin Bir Normal Katlı Sağlık Ocağı Ve Uygulama Bahçesi</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.22138,36.82278,0 36.22137,36.82287,0 36.22137,36.8229,0 36.22138,36.82297,0 36.22103,36.82292,0 36.22089,36.82291,0 36.22055,36.82286,0 36.22059,36.82273,0 36.22137,36.82277,0 36.22138,36.82278,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="121C30D1A363AEDFE3414">
+				<name>Yeşil Mahallesi 88-ada-9-parsel</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Dörtyol</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Yeşil</value>
+					</Data>
+					<Data name="Ada">
+						<value>88</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>9</value>
+					</Data>
+					<Data name="Alan">
+						<value>6.105,00</value>
+					</Data>
+					<Data name="Pafta">
+						<value>23</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Çamlık</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.23449,36.84401,0 36.23438,36.8442,0 36.23436,36.84425,0 36.23448,36.84443,0 36.23451,36.84483,0 36.23445,36.84484,0 36.2343,36.8449,0 36.2342,36.84494,0 36.23414,36.84497,0 36.23405,36.84501,0 36.23395,36.84506,0 36.23392,36.84503,0 36.23388,36.84495,0 36.23386,36.84491,0 36.23383,36.84485,0 36.23377,36.84474,0 36.23375,36.84475,0 36.23365,36.84478,0 36.23352,36.84483,0 36.23347,36.84478,0 36.23341,36.84443,0 36.23378,36.84438,0 36.23395,36.84427,0 36.23409,36.84422,0 36.23438,36.84414,0 36.23441,36.8441,0 36.23449,36.84401,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="1358BF9727E3AEDFE3414">
+				<name>Demrek Mahallesi 736-parsel</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Hassa</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Demrek</value>
+					</Data>
+					<Data name="Ada">
+					</Data>
+					<Data name="ParselNo">
+						<value>736</value>
+					</Data>
+					<Data name="Alan">
+						<value>34.800,00</value>
+					</Data>
+					<Data name="Pafta">
+						<value>036-C-09-B</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Tarla</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Demrek Gölü</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.44514,36.67366,0 36.44569,36.67388,0 36.44581,36.6739,0 36.44588,36.67399,0 36.44608,36.67407,0 36.44624,36.67423,0 36.44715,36.67429,0 36.44758,36.67421,0 36.4481,36.67418,0 36.44849,36.67418,0 36.44839,36.67466,0 36.44799,36.67451,0 36.44768,36.6748,0 36.44768,36.67486,0 36.44761,36.67508,0 36.44743,36.67563,0 36.44746,36.67606,0 36.44811,36.67591,0 36.44839,36.67585,0 36.44853,36.67582,0 36.44865,36.6758,0 36.44867,36.67578,0 36.44877,36.67564,0 36.44901,36.67545,0 36.44921,36.67559,0 36.44861,36.67593,0 36.44794,36.676,0 36.44726,36.67644,0 36.44689,36.67592,0 36.4468,36.67546,0 36.4466,36.67504,0 36.44582,36.67532,0 36.4453,36.67402,0 36.44514,36.67366,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="141FD1DEDBA3AEDFE3414">
+				<name>Yeşilköy Mahallesi 1563-parsel</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Dörtyol</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Yeşilköy</value>
+					</Data>
+					<Data name="Ada">
+					</Data>
+					<Data name="ParselNo">
+						<value>1563</value>
+					</Data>
+					<Data name="Alan">
+						<value>2.200,00</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Zemin Bir Normal Katlı Kargir Sağlık Ocağı Lojmanı Ve Tek Katlı Sağlık Ocağı Binası Ve Arsası</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Ceyhancaddesi</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.19264,36.84885,0 36.19268,36.84865,0 36.19249,36.84861,0 36.19244,36.84881,0 36.19231,36.84878,0 36.1923,36.84877,0 36.1923,36.84874,0 36.19249,36.84838,0 36.19297,36.84868,0 36.1932,36.84882,0 36.19334,36.84885,0 36.1933,36.84897,0 36.19264,36.84885,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="1598963DAE83AEDFE3414">
+				<name>Alaybeylı Kadastro Mahallesi 2194-parsel</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Kırıkhan</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Alaybeylı Kadastro</value>
+					</Data>
+					<Data name="Ada">
+					</Data>
+					<Data name="ParselNo">
+						<value>2194</value>
+					</Data>
+					<Data name="Alan">
+						<value>971,52</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.37061,36.51596,0 36.37085,36.51585,0 36.3711,36.51574,0 36.37119,36.51588,0 36.37118,36.51591,0 36.37096,36.51601,0 36.37073,36.5161,0 36.37069,36.51609,0 36.37061,36.51596,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="16B506FF5623AEDFE3414">
+				<name>Batıayaz Mahallesi 3440-ada-72-parsel</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Samandağ</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Batıayaz</value>
+					</Data>
+					<Data name="Ada">
+						<value>3440</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>72</value>
+					</Data>
+					<Data name="Alan">
+						<value>1.878,11</value>
+					</Data>
+					<Data name="Pafta">
+						<value>P35-C-10-C-3-B</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Kargir Sağlık Ocağı Ve Bahçesi</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Köyiçi</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								35.99612,36.16198,0 35.99609,36.162,0 35.99599,36.16207,0 35.99586,36.16217,0 35.99581,36.1622,0 35.99568,36.16233,0 35.99562,36.16239,0 35.9955,36.16234,0 35.99541,36.16231,0 35.99542,36.16229,0 35.99547,36.1622,0 35.99554,36.16208,0 35.99597,36.16175,0 35.99598,36.16177,0 35.996,36.1618,0 35.99604,36.16186,0 35.99608,36.16192,0 35.99612,36.16198,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="17DC0E39FBA3AEDFE3414">
+				<name>Çöğürlü Mahallesi 3755-ada-1-parsel</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Samandağ</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Çöğürlü</value>
+					</Data>
+					<Data name="Ada">
+						<value>3755</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>1</value>
+					</Data>
+					<Data name="Alan">
+						<value>3.190,42</value>
+					</Data>
+					<Data name="Pafta">
+						<value>P36-D-16-D-1</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Tarla</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Köyiçi</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.00322,36.07488,0 36.00311,36.07517,0 36.00288,36.07515,0 36.00231,36.07503,0 36.00234,36.07499,0 36.00242,36.0749,0 36.00256,36.07473,0 36.00263,36.07464,0 36.00269,36.07457,0 36.00271,36.07455,0 36.0029,36.07467,0 36.00308,36.0748,0 36.00322,36.07488,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="18BEDB2996E3AEDFE3414">
+				<name>Bezge Mahallesi 1783-ada-175-parsel</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Yayladağı</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Bezge</value>
+					</Data>
+					<Data name="Ada">
+						<value>1783</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>175</value>
+					</Data>
+					<Data name="Alan">
+						<value>2.345,26</value>
+					</Data>
+					<Data name="Pafta">
+						<value>R36-A-01-D-1</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Bezge Mah.</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.01054,35.96805,0 36.0104,35.96801,0 36.01026,35.96802,0 36.01025,35.96801,0 36.01025,35.96797,0 36.01023,35.96793,0 36.0102,35.96773,0 36.01033,35.9677,0 36.01069,35.96763,0 36.01072,35.96767,0 36.01072,35.96769,0 36.01082,35.96783,0 36.01084,35.96791,0 36.01085,35.96798,0 36.01064,35.96825,0 36.01054,35.96805,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="19A3DCF45D83AEDFE3414">
+				<name>Karaköse Mahallesi 982-ada-116-parsel</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Yayladağı</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Karaköse</value>
+					</Data>
+					<Data name="Ada">
+						<value>982</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>116</value>
+					</Data>
+					<Data name="Alan">
+						<value>3.774,73</value>
+					</Data>
+					<Data name="Pafta">
+						<value>P36-D-21-B-4</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Kargir Bina Ve Tarla</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Yazı</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.03019,36.02481,0 36.03066,36.02471,0 36.03092,36.02471,0 36.03107,36.02487,0 36.03078,36.02509,0 36.03039,36.02541,0 36.03019,36.02523,0 36.03019,36.02481,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="1A76CA4D0BE3AEDFE3414">
+				<name>Kışlak Mahallesi 137-ada-1-parsel</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Hatay</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Yayladağı</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Kışlak</value>
+					</Data>
+					<Data name="Ada">
+						<value>137</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>1</value>
+					</Data>
+					<Data name="Alan">
+						<value>2.009,68</value>
+					</Data>
+					<Data name="Pafta">
+						<value>R36-A-04-D-1-C</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Meyve Bahçesi</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Köy İçi</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.16163,35.96429,0 36.16164,35.96437,0 36.16156,35.96452,0 36.16147,35.96466,0 36.16134,35.9648,0 36.16123,35.96493,0 36.16112,35.96489,0 36.16094,35.96489,0 36.16082,35.96489,0 36.16081,35.96485,0 36.16096,35.96478,0 36.16093,35.96473,0 36.161,35.96469,0 36.16137,35.96444,0 36.16146,35.96438,0 36.16151,35.96434,0 36.16163,35.96429,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="1B39F0AEB023AEDFE3414">
+			<name>Kilis 1 Asm</name>
+			<Placemark id="1C1EEAABBEB3AEDFE3414">
+				<name>Kilis-Merkez-Albay İbrahim</name>
+				<LookAt>
+					<longitude>37.1411041200699</longitude>
+					<latitude>36.71326084218541</latitude>
+					<altitude>0</altitude>
+					<heading>0.0008006821060562633</heading>
+					<tilt>34.09199534710312</tilt>
+					<range>321.2392346036821</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_K</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>37.14089272653146,36.71333561611631,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1DD422525283AEDFE3414">
+				<name>Albay İbrahim Karaoğlanoğlu Mahallesi 3461-ada-1-parsel</name>
+				<styleUrl>#default0</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Kilis</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Merkez</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Albay İbrahim Karaoğlanoğlu</value>
+					</Data>
+					<Data name="Ada">
+						<value>3461</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>1</value>
+					</Data>
+					<Data name="Alan">
+						<value>982,60</value>
+					</Data>
+					<Data name="Pafta">
+						<value>O38-D-03-C-2-D</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Bahçeli Dört Katlı Kargir Sağlık Ocağı Ve Lojmanı</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Kasapoğlu</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								37.14075,36.71323,0 37.14076,36.71315,0 37.14093,36.71315,0 37.14092,36.71325,0 37.14108,36.71326,0 37.14106,36.7135,0 37.14071,36.71348,0 37.14075,36.71323,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="1E6D27351FA3AEDFE3414">
+			<name>Gaziantep 4 Asm</name>
+			<Placemark id="1F52AEF9E503AEDFE3414">
+				<name>Gaziantep-Şehitkamil-Karahüyük</name>
+				<LookAt>
+					<longitude>37.39650996942403</longitude>
+					<latitude>37.17232467974191</latitude>
+					<altitude>0</altitude>
+					<heading>6.277339232771145e-05</heading>
+					<tilt>36.79461241074472</tilt>
+					<range>417.3668642392564</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_A00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>37.39628963768488,37.17223094620302,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="20F74BB9C923AEDFE3414">
+				<name>Gaziantep-Nurdağı-Pınarbaşı</name>
+				<LookAt>
+					<longitude>36.93855701650138</longitude>
+					<latitude>37.17515548364327</latitude>
+					<altitude>0</altitude>
+					<heading>4.656644680560516e-05</heading>
+					<tilt>37.9413514718557</tilt>
+					<range>510.6248120233179</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_G</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.93855701650138,37.17515548364327,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="21A90C8ADC53AEDFE3414">
+				<name>Gaziantep-Islahiye-Erenler</name>
+				<LookAt>
+					<longitude>36.62762739031688</longitude>
+					<latitude>37.02890751881096</latitude>
+					<altitude>0</altitude>
+					<heading>2.235487224396133e-05</heading>
+					<tilt>35.44706688205822</tilt>
+					<range>356.2305721373771</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_G</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.62763032696399,37.02883701240645,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="22EF525AF013AEDFE3414">
+				<name>Gaziantep-Nurdağı-Bademli</name>
+				<LookAt>
+					<longitude>36.7601067372933</longitude>
+					<latitude>37.20408947284998</latitude>
+					<altitude>0</altitude>
+					<heading>0.0006312942765709727</heading>
+					<tilt>36.72587688766898</tilt>
+					<range>489.5600646360365</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_G</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.76010673729328,37.20408947284999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="23EE097D5F03AEDFE3414">
+				<name>Erenler Mahallesi 115-ada-5-parsel</name>
+				<styleUrl>#default0</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Gaziantep</value>
+					</Data>
+					<Data name="İlçe">
+						<value>İslahiye</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Erenler</value>
+					</Data>
+					<Data name="Ada">
+						<value>115</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>5</value>
+					</Data>
+					<Data name="Alan">
+						<value>1.745,98</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Zemin Ve Bir Katlı Betonarme Verem Savaş Dispanseri Binası Ve Arsası</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.62785,37.02889,0 36.6278,37.0289,0 36.62725,37.02899,0 36.62725,37.02899,0 36.62724,37.02899,0 36.62724,37.02899,0 36.62723,37.02899,0 36.62723,37.02899,0 36.62722,37.02899,0 36.62722,37.02898,0 36.62721,37.02898,0 36.62721,37.02898,0 36.62721,37.02896,0 36.62722,37.02894,0 36.62761,37.02856,0 36.62763,37.02855,0 36.62765,37.02853,0 36.62767,37.02852,0 36.62769,37.0285,0 36.62771,37.02849,0 36.62773,37.02848,0 36.62775,37.02846,0 36.62781,37.02849,0 36.62785,37.02889,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="24B8CCAD5EB3AEDFE3414">
+				<name>Bademli Mahallesi 137-ada-7-parsel</name>
+				<styleUrl>#default0</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Gaziantep</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Nurdağı</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Bademli</value>
+					</Data>
+					<Data name="Ada">
+						<value>137</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>7</value>
+					</Data>
+					<Data name="Alan">
+						<value>1.500,18</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.7601,37.20433,0 36.75976,37.20419,0 36.75996,37.20391,0 36.76013,37.20387,0 36.76035,37.20397,0 36.7601,37.20433,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="256984236983AEDFE3414">
+				<name>Pınarbaşı Mahallesi 199-ada-1-parsel</name>
+				<styleUrl>#default0</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Gaziantep</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Nurdağı</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Pınarbaşı</value>
+					</Data>
+					<Data name="Ada">
+						<value>199</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>1</value>
+					</Data>
+					<Data name="Alan">
+						<value>4.033,15</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Aile Sağlık Merkezi</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Yenipınar</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.93806,37.17473,0 36.93831,37.17465,0 36.93834,37.17465,0 36.93846,37.1746,0 36.93848,37.1746,0 36.9385,37.17459,0 36.93891,37.17541,0 36.93849,37.17554,0 36.93806,37.17473,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="265537445BE3AEDFE3414">
+				<name>Karahüyük Mahallesi 7999-ada-12-parsel</name>
+				<styleUrl>#default0</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Gaziantep</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Şehitkamil</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Karahüyük</value>
+					</Data>
+					<Data name="Ada">
+						<value>7999</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>12</value>
+					</Data>
+					<Data name="Alan">
+						<value>2.320,41</value>
+					</Data>
+					<Data name="Pafta">
+						<value>N38-C-08-C-2</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Tarla Ana Ve Çocuk Sağlığı Binası</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Köyuğru</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								37.39622,37.17233,0 37.39592,37.17226,0 37.39597,37.17213,0 37.39606,37.17187,0 37.39608,37.17188,0 37.39623,37.17195,0 37.39629,37.17197,0 37.39639,37.1721,0 37.39646,37.17219,0 37.3965,37.17223,0 37.39665,37.17228,0 37.39694,37.17242,0 37.39688,37.17249,0 37.39664,37.17243,0 37.39622,37.17233,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="2760F6986313AEDFE3414">
+			<name>Adana 5 Asm ve Aşı Deposu</name>
+			<Placemark id="28441D0FE853AEDFE3414">
+				<name>Adana-Aşı Deposu</name>
+				<LookAt>
+					<longitude>35.35511676819574</longitude>
+					<latitude>36.92373165060216</latitude>
+					<altitude>0</altitude>
+					<heading>1.353324483188282</heading>
+					<tilt>0</tilt>
+					<range>1333.978644924959</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_A0</styleUrl>
+				<Point>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>35.35456524809921,36.92220907946621,27</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="29BB3DDDBE13AEDFE3414">
+				<name>Adana-Asm1 - Seyhan - Uçakalanı</name>
+				<LookAt>
+					<longitude>35.28759201211317</longitude>
+					<latitude>36.97707277174844</latitude>
+					<altitude>0</altitude>
+					<heading>-2.797339858746838e-05</heading>
+					<tilt>39.03095313142164</tilt>
+					<range>530.6366594100954</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_A0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>35.2876521415954,36.97642677194287,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2A94094542F3AEDFE3414">
+				<name>Adana-Asm2 - Ceyhan - Hamdilli</name>
+				<LookAt>
+					<longitude>35.9295949924395</longitude>
+					<latitude>37.03392498816137</latitude>
+					<altitude>0</altitude>
+					<heading>7.21249200811351e-08</heading>
+					<tilt>44.99999943137803</tilt>
+					<range>1001.268745650902</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_A1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>35.9295949924395,37.03392498816137,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2BB75B380793AEDFE3414">
+				<name>Adana-Asm3 - Sarıçam - Hocallı</name>
+				<LookAt>
+					<longitude>35.41136654244719</longitude>
+					<latitude>37.1494000234522</latitude>
+					<altitude>0</altitude>
+					<heading>0.004885076644424039</heading>
+					<tilt>34.6434917889985</tilt>
+					<range>523.3545801038997</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_A1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>35.41124244145662,37.14927701196721,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2CD3BA51CEF3AEDFE3414">
+				<name>Adana-Asm4 - Kozan - Tepecikören</name>
+				<LookAt>
+					<longitude>35.62900000012417</longitude>
+					<latitude>37.36462500121201</latitude>
+					<altitude>0</altitude>
+					<heading>1.740463132790466e-10</heading>
+					<tilt>45.00000000121204</tilt>
+					<range>1000.000197698531</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_A1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>35.62900000012416,37.36462500121201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2DD3AF46EF23AEDFE3414">
+				<name>Adana-Asm5 - Yüreğir - Misis</name>
+				<LookAt>
+					<longitude>35.60951847907092</longitude>
+					<latitude>36.96046473498109</latitude>
+					<altitude>0</altitude>
+					<heading>9.621685280256463</heading>
+					<tilt>0.5500319173877954</tilt>
+					<range>422.3120652411428</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_A1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>35.6093729036409,36.96026317976514,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2E18FDF67A43AEDFE3414">
+				<name>Havutlu Mahallesi 256-ada-1-parsel</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Adana</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Yüreğir</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Havutlu</value>
+					</Data>
+					<Data name="Ada">
+						<value>256</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>1</value>
+					</Data>
+					<Data name="Alan">
+						<value>87.496,10</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Resmi Kurum</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Makas</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								35.35301,36.92457,0 35.35331,36.9233,0 35.35353,36.92252,0 35.35376,36.92173,0 35.35378,36.92172,0 35.356,36.9217,0 35.35602,36.92172,0 35.35628,36.92339,0 35.35626,36.92368,0 35.35623,36.92407,0 35.35617,36.92443,0 35.35607,36.925,0 35.35603,36.92502,0 35.35495,36.9249,0 35.35408,36.92477,0 35.35302,36.92459,0 35.35301,36.92457,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="2F38B8B24833AEDFE3414">
+				<name>Uçakalanı Mahallesi 1752-ada-360-parsel</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Adana</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Seyhan</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Uçakalanı</value>
+					</Data>
+					<Data name="Ada">
+						<value>1752</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>360</value>
+					</Data>
+					<Data name="Alan">
+						<value>3.024,05</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Şirmanlı</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								35.28795,36.97624,0 35.28795,36.9767,0 35.28734,36.97669,0 35.28734,36.97615,0 35.28795,36.97624,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="30D2503E0E03AEDFE3414">
+				<name>Hamdilli Mahallesi 142-ada-18-parsel</name>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Adana</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Ceyhan</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Hamdilli</value>
+					</Data>
+					<Data name="Ada">
+						<value>142</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>18</value>
+					</Data>
+					<Data name="Alan">
+						<value>3.355,05</value>
+					</Data>
+					<Data name="Pafta">
+						<value>Adana N35 C-24-B-4-A</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Kargır Lojman Ve Saglık Ocagı Binası Ve Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Köy İçi</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								35.92972,37.03428,0 35.92919,37.03412,0 35.92946,37.03357,0 35.92969,37.03364,0 35.92971,37.03364,0 35.92993,37.03369,0 35.93,37.03372,0 35.92972,37.03428,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="31F925C04CE3AEDFE3414">
+				<name>Hocallı Mahallesi 16722-ada-4-parsel</name>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Adana</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Sarıçam</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Hocallı</value>
+					</Data>
+					<Data name="Ada">
+						<value>16722</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>4</value>
+					</Data>
+					<Data name="Alan">
+						<value>2.181,30</value>
+					</Data>
+					<Data name="Pafta">
+						<value>N34-C-14-A-1</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Sağlık Ocağı Ve Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Köy İçi</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								35.41113,37.14909,0 35.41133,37.14911,0 35.41161,37.14914,0 35.4116,37.14922,0 35.41159,37.14931,0 35.41152,37.14939,0 35.41146,37.14947,0 35.41144,37.14948,0 35.41122,37.14942,0 35.41108,37.14936,0 35.41098,37.14933,0 35.41085,37.1493,0 35.41081,37.1493,0 35.41084,37.14913,0 35.41085,37.14909,0 35.41086,37.14906,0 35.41096,37.14907,0 35.41113,37.14909,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="32807B670143AEDFE3414">
+				<name>Tepecikören Mahallesi 155-ada-6-parsel</name>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Adana</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Kozan</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Tepecikören</value>
+					</Data>
+					<Data name="Ada">
+						<value>155</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>6</value>
+					</Data>
+					<Data name="Alan">
+						<value>23.284,77</value>
+					</Data>
+					<Data name="Pafta">
+						<value>N35-A-13-C-1-D</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Avlulu Kargir Hükümet Konağı Ve Tarla</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Köyiçi</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								35.62958,37.36436,0 35.62975,37.36456,0 35.62992,37.36473,0 35.63016,37.36496,0 35.63033,37.36514,0 35.63036,37.36521,0 35.63028,37.36523,0 35.6295,37.36532,0 35.62926,37.36535,0 35.62899,37.36539,0 35.62897,37.36535,0 35.62897,37.36535,0 35.62895,37.36526,0 35.62894,37.3652,0 35.62891,37.36501,0 35.62887,37.36476,0 35.62882,37.36475,0 35.62813,37.36482,0 35.62766,37.36487,0 35.62764,37.36465,0 35.62764,37.36461,0 35.62765,37.36447,0 35.62772,37.36423,0 35.62779,37.36396,0 35.62783,37.36388,0 35.62799,37.36389,0 35.62823,37.3639,0 35.62848,37.36389,0 35.62875,37.36392,0 35.62892,37.3639,0 35.62894,37.36389,0 35.62913,37.36387,0 35.6292,37.36386,0 35.62949,37.36425,0 35.62958,37.36436,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="33811EE3C9F3AEDFE3414">
+				<name>Misis(Yakapınar) Mahallesi 1416-parsel</name>
+				<LookAt>
+					<longitude>35.61055636548396</longitude>
+					<latitude>36.96118335790904</latitude>
+					<altitude>0</altitude>
+					<heading>4.382219974054811</heading>
+					<tilt>2.500353939952597</tilt>
+					<range>626.7693811126024</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Adana</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Yüreğir</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Misis(Yakapınar)</value>
+					</Data>
+					<Data name="Ada">
+					</Data>
+					<Data name="ParselNo">
+						<value>1416</value>
+					</Data>
+					<Data name="Alan">
+						<value>2.100,00</value>
+					</Data>
+					<Data name="Pafta">
+						<value>27</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>1 Bodrum 1 Zemin Ve 1-2-3 Katlı Ptt Hizmet Ve Santral Binası</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								35.60983,36.96038,0 35.60905,36.96048,0 35.60897850701378,36.96014138991838,0 35.60977545623132,36.96003348119854,0 35.60983,36.96038,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="340FA1E1D0F3AEDFE3414">
+			<name>Osmaniye 4 Asm</name>
+			<Placemark id="35DB9457EEF3AEDFE3414">
+				<name>Osmaniye Düziçi Gökçayır</name>
+				<LookAt>
+					<longitude>36.43796522806629</longitude>
+					<latitude>37.28684688365157</latitude>
+					<altitude>0</altitude>
+					<heading>-8.117144491437943e-09</heading>
+					<tilt>45</tilt>
+					<range>1546.242183284427</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.43919592523303,37.28697413183213,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="36EEBBE358A3AEDFE3414">
+				<name>Osmaniye Merkez Cevdetiye/Kocatepe</name>
+				<LookAt>
+					<longitude>36.20049500000001</longitude>
+					<latitude>37.13160499999998</latitude>
+					<altitude>0</altitude>
+					<heading>-4.13472108590257e-14</heading>
+					<tilt>44.99999999999996</tilt>
+					<range>999.9999999960502</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.20049500000001,37.13160499999997,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="379B822EF033AEDFE3414">
+				<name>Osmaniye Toprakkale Türkmen/cumhuriyet</name>
+				<LookAt>
+					<longitude>36.09476916885723</longitude>
+					<latitude>37.0546947355345</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001803986559776254</heading>
+					<tilt>38.87929564616191</tilt>
+					<range>584.1013154385639</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.09454743167936,37.05470239732779,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="3877265D9C13AEDFE3414">
+				<name>Osmaniye Düziçi Karacaören</name>
+				<LookAt>
+					<longitude>36.4329000033648</longitude>
+					<latitude>37.21163504998751</latitude>
+					<altitude>0</altitude>
+					<heading>-2.782985346280577e-12</heading>
+					<tilt>44.99999999999999</tilt>
+					<range>1000.61791449463</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>36.4329000033648,37.21163504998751,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="397A1AF5D813AEDFE3414">
+				<name>Gökçayır Mahallesi 101-ada-2-parsel</name>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Osmaniye</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Düziçi</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Gökçayır</value>
+					</Data>
+					<Data name="Ada">
+						<value>101</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>2</value>
+					</Data>
+					<Data name="Alan">
+						<value>285.819,82</value>
+					</Data>
+					<Data name="Pafta">
+						<value>N36b24b</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.43576,37.28953,0 36.43564,37.28956,0 36.4354,37.28955,0 36.4352,37.28956,0 36.435,37.28948,0 36.4348,37.28936,0 36.43458,37.28916,0 36.43434,37.28904,0 36.43413,37.28897,0 36.43403,37.28896,0 36.43412,37.28889,0 36.43439,37.28866,0 36.43443,37.28863,0 36.43467,37.28842,0 36.43472,37.28838,0 36.43502,37.28813,0 36.43519,37.28798,0 36.43528,37.28762,0 36.43533,37.28737,0 36.43534,37.28734,0 36.4353,37.28705,0 36.43529,37.287,0 36.43531,37.28698,0 36.43536,37.28698,0 36.43536,37.28704,0 36.43547,37.28705,0 36.43559,37.28703,0 36.4358,37.28702,0 36.43583,37.28696,0 36.43579,37.28668,0 36.43575,37.28658,0 36.43555,37.28636,0 36.43624,37.28625,0 36.43671,37.28626,0 36.43689,37.28619,0 36.43702,37.28566,0 36.43721,37.28546,0 36.43718,37.28537,0 36.43715,37.28526,0 36.43705,37.28524,0 36.43671,37.2852,0 36.43677,37.28514,0 36.43716,37.28509,0 36.43729,37.28488,0 36.43704,37.28478,0 36.43664,37.28474,0 36.43618,37.28459,0 36.43634,37.28454,0 36.43588,37.284,0 36.43553,37.28384,0 36.43622,37.28243,0 36.43723,37.28366,0 36.43743,37.28383,0 36.43759,37.28398,0 36.43773,37.28405,0 36.43789,37.28415,0 36.43802,37.28421,0 36.43808,37.28423,0 36.4382,37.28425,0 36.43886,37.2843,0 36.43922,37.28445,0 36.43949,37.28483,0 36.43959,37.28528,0 36.4412,37.28607,0 36.44118,37.28613,0 36.44116,37.28615,0 36.44116,37.28619,0 36.44133,37.28655,0 36.4414,37.28685,0 36.44149,37.28711,0 36.44155,37.28731,0 36.44176,37.28751,0 36.44178,37.28758,0 36.44175,37.28764,0 36.44166,37.28775,0 36.44163,37.28785,0 36.44168,37.28824,0 36.44189,37.28888,0 36.44191,37.28895,0 36.44078,37.28924,0 36.44068,37.29032,0 36.4407,37.29032,0 36.44143,37.2907,0 36.44159,37.29077,0 36.44117,37.29127,0 36.4406,37.29097,0 36.44066,37.29041,0 36.44057,37.2904,0 36.44046,37.29038,0 36.44027,37.29037,0 36.43948,37.29031,0 36.43936,37.29031,0 36.43916,37.29026,0 36.43911,37.29025,0 36.439,37.29023,0 36.43897,37.29023,0 36.43884,37.29022,0 36.43866,37.29024,0 36.43839,37.29033,0 36.43804,37.29046,0 36.43775,37.29057,0 36.43763,37.29061,0 36.43748,37.29062,0 36.4373,37.29061,0 36.43729,37.29061,0 36.43724,37.2906,0 36.437,37.29054,0 36.43688,37.29048,0 36.43675,37.29039,0 36.43664,37.29032,0 36.43653,37.29025,0 36.43644,37.2902,0 36.43619,37.28999,0 36.43576,37.28953,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<innerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.43868,37.28698,0 36.43848,37.28656,0 36.43829,37.28656,0 36.43794,37.28658,0 36.43752,37.28656,0 36.43715,37.28654,0 36.43685,37.28655,0 36.43674,37.2866,0 36.43647,37.28654,0 36.43648,37.28689,0 36.43661,37.28701,0 36.43651,37.28748,0 36.43663,37.28888,0 36.43685,37.28882,0 36.43706,37.28881,0 36.43742,37.28878,0 36.4376,37.28872,0 36.43809,37.28868,0 36.43847,37.28861,0 36.43883,37.28857,0 36.43878,37.28825,0 36.43869,37.2879,0 36.43866,37.2875,0 36.43868,37.28698,0 
+							</coordinates>
+						</LinearRing>
+					</innerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="3AD8884B8BA3AEDFE3414">
+				<name>Cevdetiye/Kocatepe Mahallesi 125-ada-1-parsel</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Osmaniye</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Merkez</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Cevdetiye/Kocatepe</value>
+					</Data>
+					<Data name="Ada">
+						<value>125</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>1</value>
+					</Data>
+					<Data name="Alan">
+						<value>4.872,90</value>
+					</Data>
+					<Data name="Pafta">
+						<value>N36-D-15-A-4-A</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.19994,37.13202,0 36.19992,37.13202,0 36.20003,37.13149,0 36.20085,37.13119,0 36.20107,37.13161,0 36.19994,37.13202,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="3BC92029CD43AEDFE3414">
+				<name>Karacaören Mahallesi 118-ada-40-parsel</name>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Osmaniye</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Düziçi</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Karacaören</value>
+					</Data>
+					<Data name="Ada">
+						<value>118</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>40</value>
+					</Data>
+					<Data name="Alan">
+						<value>2.827,77</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.43285,37.21134,0 36.43327,37.21181,0 36.43255,37.21193,0 36.43255,37.21188,0 36.43253,37.2117,0 36.43256,37.21134,0 36.43285,37.21134,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="3CA14FB9F603AEDFE3414">
+				<name>Türkmen/Cumhuriyet Mahallesi 175-ada-43-parsel</name>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Osmaniye</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Toprakkale</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Türkmen/Cumhuriyet</value>
+					</Data>
+					<Data name="Ada">
+						<value>175</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>43</value>
+					</Data>
+					<Data name="Alan">
+						<value>619,27</value>
+					</Data>
+					<Data name="Pafta">
+						<value>N36d17c3c</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Arsa</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								36.09436,37.0548,0 36.0943,37.05469,0 36.09438,37.0546,0 36.09457,37.05462,0 36.09464,37.05463,0 36.09465,37.05464,0 36.09465,37.05465,0 36.09466,37.0547,0 36.09467,37.05477,0 36.09467,37.05482,0 36.0946,37.05481,0 36.09457,37.05481,0 36.09442,37.05479,0 36.09441,37.0548,0 36.09436,37.0548,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="096CF15F493CE6A0B16C">
+			<name>Malatya 4 Asm</name>
+			<styleUrl>#__managed_style_05F1238CE53CE770840C</styleUrl>
+			<Placemark id="0E4FE23A863CE6E10AB1">
+				<name>Malatya-Akçadağ-Esenbey</name>
+				<LookAt>
+					<longitude>37.76915405023042</longitude>
+					<latitude>38.48166502102213</latitude>
+					<altitude>925.4400083416376</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>401.4980441670923</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>37.7688924691803,38.48162693881317,925.2966027555599</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0616F7F9D93CE6DD0E1C">
+				<name>Malatya-Battalgazi-Çöşnük</name>
+				<LookAt>
+					<longitude>38.34244214324712</longitude>
+					<latitude>38.34592033348562</latitude>
+					<altitude>1019.008697955217</altitude>
+					<heading>0.0004607594179838794</heading>
+					<tilt>0</tilt>
+					<gx:fovy>34.99999967218403</gx:fovy>
+					<range>206.7740622147176</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>38.34232574973062,38.3458942986309,1018.988616237486</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="016449ED8A3CE6E4E25E">
+				<name>Malatya-Doğanşehir-Kurucaova</name>
+				<LookAt>
+					<longitude>38.11752801313836</longitude>
+					<latitude>37.9812706213353</latitude>
+					<altitude>1473.072092612051</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>249.485580071705</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>38.1174788338525,37.98126403150754,1473.148026286715</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0766E1D0433CE6EB4230">
+				<name>Malatya-Battalgazi-Kırçuval</name>
+				<LookAt>
+					<longitude>38.32515451474254</longitude>
+					<latitude>38.35189641406415</latitude>
+					<altitude>969.7490535502698</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>262.4790581607886</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>38.32513579869595,38.35180141841278,969.9259687702378</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="04440A96063CE6DF76E0">
+				<name>Malatya-Akçadağ-Esenbey</name>
+				<styleUrl>#__managed_style_30707BB8573CE770840E</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Malatya</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Akçadağ</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Esenbey</value>
+					</Data>
+					<Data name="Ada">
+						<value>124</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>8</value>
+					</Data>
+					<Data name="Alan">
+						<value>5.820,91</value>
+					</Data>
+					<Data name="Pafta">
+						<value>L.39.B.01.A</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Sağlık Ocağı Lojman Ve Bahçe</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Köyiçi</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								37.76834,38.48169,0 37.76861,38.48124,0 37.76888,38.48131,0 37.7696,38.48156,0 37.76904,38.48213,0 37.76834,38.48169,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="0EE57039C63CE6DC0E90">
+				<name>Malatya-Battalgazi-Çöşnük</name>
+				<LookAt>
+					<longitude>38.34244214324712</longitude>
+					<latitude>38.34592033348562</latitude>
+					<altitude>1019.008697955217</altitude>
+					<heading>0.0004607594179838794</heading>
+					<tilt>0</tilt>
+					<gx:fovy>34.99999967218403</gx:fovy>
+					<range>206.7740622147176</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_05F1238CE53CE770840C</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								38.34182900670316,38.34597259030096,0 38.34227971432845,38.34560536814734,0 38.34286367437638,38.34611424944148,0 38.34182900670316,38.34597259030096,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="0F78207AE03CE6E47808">
+				<name>Malatya-Doğanşehir-Kurucaova</name>
+				<styleUrl>#__managed_style_005FCE208F3CE770840F</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Malatya</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Doğanşehir</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Kurucaova</value>
+					</Data>
+					<Data name="Ada">
+						<value>140</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>1</value>
+					</Data>
+					<Data name="Alan">
+						<value>1.874,34</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Sağlık Ocağı Ve Lojman Ve Arsası</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								38.11735,37.98151,0 38.1173,37.98148,0 38.11728,37.98134,0 38.11727,37.98109,0 38.11731,37.98106,0 38.11769,37.98103,0 38.11774,37.98146,0 38.11735,37.98151,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="0D0DEBD0843CE6EAE6E8">
+				<name>Malatya-Battalgazi-Kırçuval</name>
+				<LookAt>
+					<longitude>38.32515451474254</longitude>
+					<latitude>38.35189641406415</latitude>
+					<altitude>969.7490535502698</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>262.4790581607886</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_05F1238CE53CE770840C</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								38.32498750261357,38.35215140186241,0 38.32476164435268,38.35204185678281,0 38.32532654904544,38.3514360041605,0 38.32558745013521,38.35160035228187,0 38.32498750261357,38.35215140186241,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="0383C5DC423CE7729CD4">
+			<name>Adıyaman 4 Asm</name>
+			<styleUrl>#__managed_style_05F1238CE53CE770840C</styleUrl>
+			<Placemark id="0D11054CFC3CE7719B2C">
+				<name>Adıyaman-Kahta-Damlacık</name>
+				<LookAt>
+					<longitude>38.65313357859905</longitude>
+					<latitude>37.91179685040465</latitude>
+					<altitude>795.9829112874445</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>356.2764154770412</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_A</styleUrl>
+				<Point>
+					<coordinates>38.6530632664502,37.91177410634169,795.3753326481584</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0D27F8734B3CE7739AFE">
+				<name>Adıyaman-Kahta-Salkımbağı</name>
+				<LookAt>
+					<longitude>38.58877646590506</longitude>
+					<latitude>37.82585184638024</latitude>
+					<altitude>804.6991439195742</altitude>
+					<heading>359.9999991404968</heading>
+					<tilt>0</tilt>
+					<gx:fovy>30.00007013840554</gx:fovy>
+					<range>426.8900777248929</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_A</styleUrl>
+				<Point>
+					<coordinates>38.58865087187883,37.82582648160666,804.8839996303202</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="06E065D5773CE774E008">
+				<name>Adıyaman-Besni-Eskiköy</name>
+				<LookAt>
+					<longitude>37.81333716443475</longitude>
+					<latitude>37.67641277806244</latitude>
+					<altitude>1067.047401884353</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>30</gx:fovy>
+					<range>719.8719459903078</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_A</styleUrl>
+				<Point>
+					<coordinates>37.813341970103,37.67640802348581,1067.035260634766</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="092424D8B43CE776169C">
+				<name>Adıyaman-Gölbaşı-Yukarı Çöplü</name>
+				<LookAt>
+					<longitude>37.71536000019195</longitude>
+					<latitude>37.7734060732807</latitude>
+					<altitude>910.7210443006499</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>30</gx:fovy>
+					<range>758.3014255431773</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_A</styleUrl>
+				<Point>
+					<coordinates>37.71542086042781,37.77338101769629,910.3053326284531</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="064F9CF5913CE7745510">
+				<name>Adıyaman-Besni-Eskiköy</name>
+				<styleUrl>#__managed_style_0FF210C3583CE7772E7C</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Adıyaman</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Besni</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Eskiköy</value>
+					</Data>
+					<Data name="Ada">
+						<value>153</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>2</value>
+					</Data>
+					<Data name="Alan">
+						<value>8.818,40</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Sağlık Tesis Alanı</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								37.81374,37.67592,0 37.81436,37.67634,0 37.81306,37.67691,0 37.81303,37.6769,0 37.81292,37.67684,0 37.81282,37.67678,0 37.81272,37.67671,0 37.81263,37.67664,0 37.81253,37.67657,0 37.81245,37.67651,0 37.81374,37.67592,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="00BC431C123CE7730F80">
+				<name>Adıyaman-Kahta-Salkımbağı</name>
+				<styleUrl>#__managed_style_0FF210C3583CE7772E7C</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Adıyaman</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Kahta</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Salkımbağı</value>
+					</Data>
+					<Data name="Ada">
+						<value>122</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>4</value>
+					</Data>
+					<Data name="Alan">
+						<value>1.304,66</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Cami Alanı</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								38.58876,37.82575,0 38.58888,37.82576,0 38.58895,37.82592,0 38.58889,37.82595,0 38.58876,37.826,0 38.58858,37.82607,0 38.58838,37.82562,0 38.5884,37.82562,0 38.58849,37.82563,0 38.58876,37.82575,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="05D3BD78993CE770EA0C">
+				<name>Adıyaman-Kahta-Damlacık</name>
+				<styleUrl>#__managed_style_0FF210C3583CE7772E7C</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Adıyaman</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Kahta</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Damlacık</value>
+					</Data>
+					<Data name="Ada">
+						<value>135</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>39</value>
+					</Data>
+					<Data name="Alan">
+						<value>3.280,02</value>
+					</Data>
+					<Data name="Pafta">
+						<value>1</value>
+					</Data>
+					<Data name="Nitelik">
+						<value>Kargir Sağlık Ocağı Loj. Ve Bah.</value>
+					</Data>
+					<Data name="Mevkii">
+						<value>Köycivarı</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								38.65262,37.91167,0 38.653,37.91144,0 38.65354,37.91187,0 38.65327,37.9121,0 38.65315,37.9122,0 38.65262,37.91167,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="06A916B9513CE7759C86">
+				<name>Adıyaman-Gölbaşı-Yukarı Çöplü</name>
+				<styleUrl>#__managed_style_0FF210C3583CE7772E7C</styleUrl>
+				<ExtendedData>
+					<Data name="İl">
+						<value>Adıyaman</value>
+					</Data>
+					<Data name="İlçe">
+						<value>Gölbaşı</value>
+					</Data>
+					<Data name="Mahalle">
+						<value>Yukarı Çöplü</value>
+					</Data>
+					<Data name="Ada">
+						<value>159</value>
+					</Data>
+					<Data name="ParselNo">
+						<value>4</value>
+					</Data>
+					<Data name="Alan">
+						<value>6.072,65</value>
+					</Data>
+					<Data name="Pafta">
+					</Data>
+					<Data name="Nitelik">
+						<value>Sağlık Tesis Alanı</value>
+					</Data>
+					<Data name="Mevkii">
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								37.71484,37.77342,0 37.71536,37.77287,0 37.71588,37.77325,0 37.71576,37.7737,0 37.71561,37.77388,0 37.71549,37.77393,0 37.71484,37.77342,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

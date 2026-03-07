@@ -6,56 +6,81 @@
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-
 <script src="https://unpkg.com/@tmcw/togeojson"></script>
 
 <style>
+
 body{
 margin:0;
 font-family:Arial;
+display:flex;
+height:100vh;
+}
+
+#sidebar{
+width:300px;
+overflow:auto;
+border-right:1px solid #ccc;
+padding:10px;
+background:#f7f7f7;
 }
 
 #map{
-height:100vh;
-width:100%;
+flex:1;
 }
 
-.popup-buttons{
-margin-top:10px;
+.location{
+padding:8px;
+border-bottom:1px solid #ddd;
+cursor:pointer;
 }
 
-.popup-buttons a{
-display:block;
+.location:hover{
+background:#eaeaea;
+}
+
+.buttons a{
+display:inline-block;
 margin-top:5px;
-padding:6px;
+margin-right:5px;
+padding:5px 8px;
 background:#2c7be5;
 color:white;
 text-decoration:none;
 border-radius:4px;
-text-align:center;
+font-size:12px;
 }
+
 </style>
+
 </head>
 
 <body>
+
+<div id="sidebar">
+<h3>Konumlar</h3>
+<div id="locationList"></div>
+</div>
 
 <div id="map"></div>
 
 <script>
 
-var map = L.map('map').setView([37.06, 37.38], 12);
+var map = L.map('map').setView([37.06,37.38],11);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
 maxZoom:19
 }).addTo(map);
 
-fetch("konumlar.kml")
+fetch("./konumlar.kml")
 .then(res=>res.text())
 .then(kmltext=>{
 
 var parser = new DOMParser();
 var kml = parser.parseFromString(kmltext,"text/xml");
 var geojson = toGeoJSON.kml(kml);
+
+var listDiv = document.getElementById("locationList");
 
 L.geoJSON(geojson,{
 onEachFeature:function(feature,layer){
@@ -64,31 +89,36 @@ var coord = feature.geometry.coordinates;
 var lon = coord[0];
 var lat = coord[1];
 
+var name = feature.properties.name || "Konum";
+
 var google = "https://www.google.com/maps?q="+lat+","+lon;
 var apple = "https://maps.apple.com/?q="+lat+","+lon;
 
-var name = feature.properties.name || "Konum";
+layer.bindPopup("<b>"+name+"</b>");
 
-var popup = `
+layer.addTo(map);
+
+var item = document.createElement("div");
+item.className="location";
+
+item.innerHTML = `
 <b>${name}</b>
 
-<div class="popup-buttons">
-
-<a href="${google}" target="_blank">
-Google Haritalarda Aç
-</a>
-
-<a href="${apple}" target="_blank">
-Apple Haritalarda Aç
-</a>
-
+<div class="buttons">
+<a href="${google}" target="_blank">Google</a>
+<a href="${apple}" target="_blank">Apple</a>
 </div>
 `;
 
-layer.bindPopup(popup);
+item.onclick = function(){
+map.setView([lat,lon],15);
+layer.openPopup();
+};
+
+listDiv.appendChild(item);
 
 }
-}).addTo(map);
+});
 
 });
 
